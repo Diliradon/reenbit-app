@@ -1,0 +1,6 @@
+[submodule "back-part"]
+	path = back-part
+	url = https://github.com/Diliradon/reenbit-back-part.git
+[submodule "front-part"]
+	path = front-part
+	url = https://github.com/Diliradon/reenbit-front-part.git
